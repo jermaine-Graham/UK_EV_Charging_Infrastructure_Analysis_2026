@@ -1,10 +1,10 @@
-# UK_EV_Chargin# UK EV Charging Infrastructure Analysis (2026)
+UK EV Charging Infrastructure Analysis (2026)
 
 ## Interactive Tableau Dashboard
 Explore the live interactive dashboard on Tableau Public:
-**[View Live Interactive Dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)**
+**[View Live Interactive Dashboard on Tableau Public](https://public.tableau.com/authoring/UKevChargingInfrastructureAnalysis2026/June2026DftCPO#1)**
 
-![UK EV Charging Infrastructure Tableau Dashboard](tableau_dashboard_preview.png)
+![UK EV Charging Infrastructure Tableau Dashboard](tableau_dashboard_preview)
 
 
 ## Project Overview
