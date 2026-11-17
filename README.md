@@ -1,5 +1,12 @@
 # UK_EV_Chargin# UK EV Charging Infrastructure Analysis (2026)
 
+## Interactive Tableau Dashboard
+Explore the live interactive dashboard on Tableau Public:
+**[View Live Interactive Dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)**
+
+![UK EV Charging Infrastructure Tableau Dashboard](tableau_dashboard_preview.png)
+
+
 ## Project Overview
 An interactive Excel and Google Sheets commercial analysis of public electric vehicle (EV) charging device deployment across 361 UK Local Authorities** (January 2026 – July 2026), built using official Department for Transport (DfT) statistical data (`EVCI0102`).
 
